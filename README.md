@@ -13,4 +13,8 @@
 ### アルバイト先である「エブリボディ伊川谷店」のHPを作成させて頂きました。
 ・[everybody-ikawadani.com](https://everybody-ikawadani.com/)
 
-# 
+# その他の成果物
+過去には以下のようなものも作成しました。
+### ・img2music(画像から音楽を生成するコード)
+### ・画像キャプション生成のLINEbot
+
