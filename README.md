@@ -11,7 +11,6 @@
 
 # ホームページ作成 
 ### アルバイト先である「エブリボディ伊川谷店」のHPを作成させて頂きました。
-・[everybody-ikawadani.com](https://everybody-ikawadani.com/)https://everybody-ikawadani.com/
-
+・[everybody-ikawadani.com](https://everybody-ikawadani.com/)
 
 # 
