@@ -3,8 +3,16 @@
 ### 「ニュース記事の共起行列作成とNMFのソフトクラスタリング」
 
 （学会で発表しました。「https://db-event.jpn.org/webdbw2023/」）
+
+
 ・https://colab.research.google.com/drive/1GVtmWtaie5_ivlcF6shFBtZv1fx3M3Ij?authuser=1&hl=ja#scrollTo=_AGng7gFtlVp
+
+
 この研究に関するファイル
+
+
+学会用スライド_pptx
+
 
 ### 「関連事業から関連企業を出力するためのコード（現在修正中）」
 ・https://colab.research.google.com/drive/1DFcbfKYxujsflS8SIqVNo9u0W_wMp0yj?authuser=1&hl=ja#scrollTo=b-QHKPncIQ3L
