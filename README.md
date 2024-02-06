@@ -7,9 +7,6 @@
 
 （学会で発表しました。「https://db-event.jpn.org/webdbw2023/
 」）
-
-この研究に関するファイル
-
 ・https://colab.research.google.com/drive/1GVtmWtaie5_ivlcF6shFBtZv1fx3M3Ij?authuser=1&hl=ja#scrollTo=_AGng7gFtlVp
 ・学会用スライド_辻田.pptx
 
